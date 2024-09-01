@@ -1,0 +1,88 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Space Grotesk", sans-serif;
+}
+
+#navbar-logo {
+    width: 35.25px;
+    height: 35.25px;
+    padding-top: 0.35px;
+    margin-left: 0.35px;
+    gap: 0px;
+    opacity: 0px;
+}
+.nav-item {
+    padding-left: 4px;
+}
+.d-flex{
+    margin-left: 3rem;
+}
+
+/* ==========Section=========== */
+.Frame1 {
+    margin-top: 71px;
+    margin-left: 61px;
+    /* border: 2px solid black; */
+    width: 551px;
+    height: 355px;
+
+}
+
+.Frame2 {
+    width: 450px;
+    height: 91px;
+    gap: 0px;
+    opacity: 0px;
+    /* border: 2px solid black; */
+    color: #5A5959;
+    font-size: 1rem;
+    font-weight: 600;
+    line-height: 24px;
+    text-align: left;
+    margin-top: 30px;
+}
+
+.btn1 {
+    background: #191A23;
+    margin-top: 21px;
+    font-size: 20px;
+    Padding:  18px 18px;
+  
+    border: 1px solid transparent;
+    border-radius: 8px;
+}
+
+button a {
+    text-decoration: none;
+    color: white;
+}
+
+.Frame3 {
+    /* border: 2px solid black; */
+    Width: 594px;
+    Height: 468px;
+    margin-top: -390px;
+    margin-left: 683px;
+    /* border: 2px solid black; */
+}
+
+
+.Frame4 {
+    display: flex;
+    width: 1440px;
+    height: 48px;
+    padding: 0px 100px 0px 100px;
+    gap: 5rem;
+    justify-content: space-between;
+    opacity: 0px;
+    margin-left: -3rem;
+    /* border: 2px solid red; */
+    margin-top: 1rem;
+
+}
+
